@@ -1,0 +1,201 @@
+
+* {
+  padding: right 30px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  
+}
+
+.day-header {
+  font-size: 26px;
+  background-color: none;
+  position: relative;
+  display: inline;
+}
+
+ h1 {
+  position: relative;
+  padding: right; 
+  right: 150px
+}
+span {
+  border-bottom: 2px solid black;
+  position: absolute;
+  width: 80%;
+  left: 0;
+  
+}
+
+
+/* Set a style for the submit button */
+.button {
+  background-color: dodgerblue;
+  color: #312fa8;
+  padding: 15px 20px;
+  border: none;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.button:hover {
+  opacity: 1;
+  color: blue;
+}
+
+.input-wrapper {
+  display: flex;
+  background-color: aqua;
+  width: 50%;
+}
+
+.text-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field:focus {
+  border: 2px solid aqua;
+}
+
+.icon {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-wrapper2 {
+  margin-top: 30px;
+  background-color: aqua;
+  width: 50%;
+}
+
+.text-field2 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.text-field2:focus {
+  border: 2px solid aqua;
+}
+
+.icon2 {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
+.input-wrapper2 {
+  display: -ms-flexbox;
+  display: flex;
+  background-color: dodgerblue;
+  width: 100%;
+  position: relative;
+}
+
+.text-field2 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.text-field2:focus {
+  border: 2px solid dodgerblue;
+}
+
+.icon2 {
+  position: absolute;
+  right: 20px;
+  top: 11px;
+}
+
+.input-wrapper3 {
+  display: flex;
+  background-color:  dodgerblue;
+  width: 50%;
+}
+
+.text-field3 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field3:focus {
+  border: 2px solid  dodgerblue;
+}
+
+.icon3 {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-wrapper4 {
+  display: flex;
+  background-color:  dodgerblue;
+  width: 50%;
+}
+
+.text-field4 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field4:focus {
+  border: 2px solid dodgerblue;
+}
+
+.icon4 {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-wrapper5 {
+  display: flex;
+  background-color:  dodgerblue;
+  width: 50%;
+}
+
+.text-field5{
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field5:focus {
+  border: 2px solid dodgerblue;
+}
+
+.icon5 {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-wrapper6 {
+  display: flex;
+  background-color:  dodgerblue;
+  width: 50%;
+}
+
+.text-field6 {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.text-field6:focus {
+  border: 2px solid dodgerblue;
+}
+
+.icon6 {
+  padding: 20px;
+  min-width: 50px;
+  text-align: center;
+}
